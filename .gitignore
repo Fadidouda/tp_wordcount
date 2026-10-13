@@ -5,3 +5,8 @@ __pycache__/
 
 # Données générées (régénérables à l'identique via la graine du notebook)
 data/
+
+# Fichiers éventuellement créés par Spark
+spark-warehouse/
+metastore_db/
+derby.log
