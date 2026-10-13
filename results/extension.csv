@@ -1,0 +1,3 @@
+m,lignes,taille_Mo,V1 temps (s),V1 statut,Hadoop temps (s),Hadoop maps,Hadoop statut
+1000,100000000,591,,échec mémoire,81.0,6,ok
+2000,200000000,1181,,échec mémoire,139.6,10,ok
