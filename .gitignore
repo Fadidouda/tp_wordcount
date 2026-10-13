@@ -1,0 +1,7 @@
+# Environnement Python local
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Données générées (régénérables à l'identique via la graine du notebook)
+data/

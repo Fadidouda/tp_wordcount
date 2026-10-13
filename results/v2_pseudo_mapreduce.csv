@@ -1,0 +1,8 @@
+methode,m,lignes,taille_Mo,temps_median_s,temps_min_s,temps_max_s,memoire_pic_Mo,statut
+v2_pseudo_mapreduce,1,100000,0.6,0.0586,0.0562,0.0593,22.8,ok
+v2_pseudo_mapreduce,5,500000,3.0,0.2529,0.2354,0.2674,78.2,ok
+v2_pseudo_mapreduce,10,1000000,5.9,0.5234,0.5211,0.5443,147.3,ok
+v2_pseudo_mapreduce,50,5000000,29.5,2.6549,2.5657,2.6951,698.0,ok
+v2_pseudo_mapreduce,100,10000000,59.1,5.6628,5.5127,5.9507,1387.3,ok
+v2_pseudo_mapreduce,200,20000000,118.1,12.1443,11.4966,12.7021,2765.5,ok
+v2_pseudo_mapreduce,500,50000000,,,,,,échec mémoire
