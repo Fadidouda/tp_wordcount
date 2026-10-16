@@ -10,3 +10,6 @@ data/
 spark-warehouse/
 metastore_db/
 derby.log
+road_crash/source_auteur/
+road_crash/data_dupliquee/
+road_crash/parquet/
